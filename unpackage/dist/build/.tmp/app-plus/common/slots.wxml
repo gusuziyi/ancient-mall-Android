@@ -1,0 +1,21 @@
+<import src="/pages/index/c/SearchBar.vue.wxml" />
+<import src="/pages/index/c/TapOption.vue.wxml" />
+<import src="/pages/index/c/Carsousel.vue.wxml" />
+<import src="/pages/index/c/BuyCut.vue.wxml" />
+<import src="/pages/index/c/BuyGroup.vue.wxml" />
+<import src="/pages/index/c/BuyHot.vue.wxml" />
+<import src="/pages/list/c/ASide.vue.wxml" />
+<import src="/pages/list/c/ShopsList.vue.wxml" />
+<import src="/pages/cart/c/Cart.vue.wxml" />
+<import src="/pages/my/c/Userinfo.vue.wxml" />
+<import src="/pages/my/c/NewState.vue.wxml" />
+<import src="/pages/my/c/State.vue.wxml" />
+<import src="/pages/search-list/c/SearchList.vue.wxml" />
+<import src="/pages/logistics/c/Logistics.vue.wxml" />
+<import src="/pages/index/c/subComponent/BuyHotInner.vue.wxml" />
+<import src="/pages/index/c/subComponent/BuyGroupInner.vue.wxml" />
+<import src="/pages/index/c/subComponent/BuyCutInner.vue.wxml" />
+<import src="/pages/shops/shop/c/Shop.vue.wxml" />
+<import src="/pages/shops/shop/c/Buy.vue.wxml" />
+<import src="/pages/shops/shop/c/CityChoose.vue.wxml" />
+

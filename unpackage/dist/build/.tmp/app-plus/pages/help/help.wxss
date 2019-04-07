@@ -1,0 +1,35 @@
+
+.page.data-v-15e4c1fe {
+    color: #8b008b;
+    padding: 30rpx;
+    font-size: 28rpx;
+}
+.page .q-header .q-title.data-v-15e4c1fe {
+    font-size: 34rpx;
+    text-align: center;
+}
+.page .q-header .q-author.data-v-15e4c1fe {
+    text-align: center;
+    margin-bottom: 20rpx;
+}
+.page .q-header .q-desc.data-v-15e4c1fe {
+    text-indent: 2em;
+}
+.q-t.data-v-15e4c1fe {
+    text-indent: 2em;
+    text-align: left;
+    margin-top: 17rpx;
+}
+.page .q-article.data-v-15e4c1fe {
+    margin-top: 20rpx;
+    text-align: center;
+}
+.page .q-article .q-title.data-v-15e4c1fe {
+    margin-bottom: -10rpx;
+    margin-top: 25rpx;
+}
+.page .q-article .q-p.data-v-15e4c1fe {
+    margin-top: 17rpx;
+    text-align: center;
+}
+

@@ -1,0 +1,63 @@
+[{
+    "_id": "W-AjZLdokuiP4dEn",
+    "_openid": "oCCgN5OsJd1h4yLW2MTtPIzHRwV0",
+    "area": "山东潍坊",
+    "class": "美妆",
+    "shop": [{
+        "id": 10,
+        "imgs": "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-10.jpg",
+        "name": "盛世红妆凤栖于桐",
+        "num": 4,
+        "price": 27.60,
+        "sizes": "在水一方",
+        "types": "暮雨"
+    }],
+    "shops": "点绛唇旗舰店"
+}, {
+    "_id": "W-BOp7dokuiP5Gz_",
+    "_openid": "oCCgN5OsJd1h4yLW2MTtPIzHRwV0",
+    "area": "广东珠海",
+    "class": "旅游",
+    "shop": [{
+        "id": 6,
+        "imgs": "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-6.jpg",
+        "name": "岁月静好甜蜜之旅",
+        "num": 3,
+        "price": 49.80,
+        "sizes": "单人",
+        "types": "体验版"
+    }],
+    "shops": "锦绣华南旗舰店"
+
+}, {
+    "_id": "W-GH_nhEiJmgV-6X",
+    "_openid": "oCCgN5OsJd1h4yLW2MTtPIzHRwV0",
+    "area": "广东广州",
+    "class": "写真",
+    "shop": [{
+        "id": 1,
+        "imgs": "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-1.jpg",
+        "name": "佳期如梦古风写真",
+        "num": 1,
+        "price": 3990.00,
+        "sizes": "八色",
+        "types": "点绛唇"
+    }, {
+        "id": 2,
+        "imgs": "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-2.jpg",
+        "name": "花开并蒂盛世写真",
+        "num": 1,
+        "price": 559.20,
+        "sizes": "茉莉世家",
+        "types": "青色"
+    }, {
+        "id": 1,
+        "imgs": "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-1.jpg",
+        "name": "佳期如梦古风写真",
+        "num": 1,
+        "price": 4788.00,
+        "sizes": "十六色",
+        "types": "鹊桥仙"
+    }],
+    "shops": "之子于归旗舰店"
+}]

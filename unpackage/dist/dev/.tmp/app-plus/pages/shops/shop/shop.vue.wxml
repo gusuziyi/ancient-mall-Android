@@ -1,0 +1,1 @@
+<import src="/pages/shops/shop/c/Shop.vue.wxml" /><template name="253ecb54"><template bindonShareAppMessage="handleProxy" data-eventid="{{'253ecb54-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'253ecb54-0'],$root}}" is="0db466bc"></template></template>

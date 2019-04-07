@@ -1,0 +1,2 @@
+setCssToHead(["#items .",[1],"q-item.",[1],"data-v-08cd84f6 { border-bottom: 1px solid purple; }\n",],"Some selectors are not allowed in component wxss, including tag name selectors, ID selectors, and attribute selectors.(./pages/suit/suit.wxss:2:1)",{path:"./pages/suit/suit.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/suit/suit.wxml') } }));

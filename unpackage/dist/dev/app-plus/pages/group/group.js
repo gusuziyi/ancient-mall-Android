@@ -1,0 +1,2 @@
+setCssToHead(["wx-page.",[1],"data-v-6f2cf63a{ background-color: #EAEAEA; }\n",],undefined,{path:"./pages/group/group.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/group/group.wxml') } }));

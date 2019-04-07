@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/cart/cart",
+    "pages/my/my",
+    "pages/search-list/search-list",
+    "pages/logistics/logistics",
+    "pages/shops/shop/shop",
+    "pages/jas/jas",
+    "pages/pay/pay",
+    "pages/shops/shops",
+    "pages/fashion/fashion",
+    "pages/group/group",
+    "pages/suit/suit",
+    "pages/my/video/video",
+    "pages/my/video/play/play",
+    "pages/help/help"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundColor": "#800080",
+    "navigationBarBackgroundColor": "#800080",
+    "navigationBarTitleText": "美妆小铺古风版",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "selectedColor": "#800080",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabBar/icons_01.png",
+        "selectedIconPath": "static/tabBar/icons_13.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "iconPath": "static/tabBar/icons_02.png",
+        "selectedIconPath": "static/tabBar/icons_14.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/tabBar/icons_03.png",
+        "selectedIconPath": "static/tabBar/icons_15.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/tabBar/icons_04.png",
+        "selectedIconPath": "static/tabBar/icons_16.png",
+        "text": "我的美妆"
+      },
+      {
+        "pagePath": "pages/logistics/logistics",
+        "iconPath": "static/tabBar/icons_05.png",
+        "selectedIconPath": "static/tabBar/icons_17.png",
+        "text": "物流查询"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "美妆小铺",
+  "compilerVersion": "1.8.2"
+}
