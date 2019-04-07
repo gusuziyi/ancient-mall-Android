@@ -8,9 +8,11 @@
 技术栈：
 框架：uniApp，前端：vue，后端：native，云端：阿里云OSS
 
-- 下载地址 [百度网盘链接](https://pan.baidu.com/s/176dGtudLXIg-lUKdeNdOgQ)   提取码：6ype
-- 下载二维码 ![下载二维码](https://upload-images.jianshu.io/upload_images/2770403-016f095ea8aff372.png)
-- 下载源代码 [项目源代码](https://github.com/gusuziyi/ancient-mall-Android)
+- 图片预览：[美妆小铺功能界面](https://gusuziyi.github.io/ancientBeauty/)
+- 下载地址：[百度网盘链接](https://pan.baidu.com/s/176dGtudLXIg-lUKdeNdOgQ)   提取码：6ype
+- 下载源代码 ：[项目源代码](https://github.com/gusuziyi/ancient-mall-Android)
+- 下载二维码 ：
+![app下载二维码](https://upload-images.jianshu.io/upload_images/2770403-016f095ea8aff372.png)
 
 **关于这个App的一些链接介绍：**
 
