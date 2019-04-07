@@ -8,11 +8,11 @@
 技术栈：
 框架：uniApp，前端：vue，后端：native，云端：阿里云OSS
 
-- 下载地址 [百度网盘链接](https://pan.baidu.com/s/176dGtudLXIg-lUKdeNdOgQ). 提取码：6ype
-- 下载二维码 ![下载二维码]()
+- 下载地址 [百度网盘链接](https://pan.baidu.com/s/176dGtudLXIg-lUKdeNdOgQ)   提取码：6ype
+- 下载二维码 ![下载二维码](https://upload-images.jianshu.io/upload_images/2770403-016f095ea8aff372.png)
 - 下载源代码 [项目源代码](https://github.com/gusuziyi/ancient-mall-Android)
 
-######关于这个App的一些链接介绍：
+**关于这个App的一些链接介绍：**
 
 - 点击查看 [微信小程序移植安卓App的一些经验](https://www.jianshu.com/p/fb0f81152174).
 - 点击查看 [小程序中的腾讯云如何迁移到阿里云](https://www.jianshu.com/p/b5132ee3a82a).
